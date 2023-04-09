@@ -61,7 +61,7 @@ class _AmountCalcState extends State<AmountCalc> {
                   Container(
                     padding: const EdgeInsets.all(20),
                     height: 69,
-                    width: 180,
+                    width: 150,
                     decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(10),
                       color: Color(0xFFE11299),
@@ -74,7 +74,7 @@ class _AmountCalcState extends State<AmountCalc> {
                   Flexible(
                     child: Container(
                       height: 70,
-                      width: 190,
+                      width: 150,
                       padding: const EdgeInsets.all(10),
                       decoration: BoxDecoration(
                         color: const Color(0xFFE11299),
@@ -107,7 +107,7 @@ class _AmountCalcState extends State<AmountCalc> {
                   Flexible(
                     child: Container(
                       height: 70,
-                      width: 190,
+                      width: 150,
                       padding: const EdgeInsets.all(10),
                       decoration: BoxDecoration(
                         color: const Color(0xFFE11299),
@@ -132,7 +132,7 @@ class _AmountCalcState extends State<AmountCalc> {
                   Flexible(
                     child: Container(
                       height: 70,
-                      width: 190,
+                      width: 150,
                       padding: const EdgeInsets.all(10),
                       decoration: BoxDecoration(
                         color: const Color(0xFFE11299),
@@ -145,7 +145,7 @@ class _AmountCalcState extends State<AmountCalc> {
                         decoration: const InputDecoration(
                           border: InputBorder.none,
                           // labelText: 'Enter Name',
-                          hintText: 'Enter Discount(%)',
+                          hintText: 'Discount(%)',
                           hintStyle: TextStyle(
                             color: Colors.white,
                             fontSize: 19,
@@ -165,7 +165,7 @@ class _AmountCalcState extends State<AmountCalc> {
                   Flexible(
                     child: Container(
                       height: 70,
-                      width: 190,
+                      width: 150,
                       padding: const EdgeInsets.all(10),
                       decoration: BoxDecoration(
                         color: const Color(0xFFE11299),
